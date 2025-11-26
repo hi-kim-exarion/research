@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "foambubble.foam-vscode",
+        "yzhang.markdown-all-in-one",
+        "hediet.vscode-drawio",
+        "tomekwi.vscode-graphviz",
+        "ms-toolsai.jupyter",
+        "bierner.markdown-mermaid"
+    ]
+}

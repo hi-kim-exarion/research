@@ -1,0 +1,7 @@
+{
+    "cmake.generator": "Visual Studio 17 2022",
+    "foam.edit.linkReferenceDefinitions": "off",
+    "foam.openDailyNote.directory": "docs/30_DevLog",
+    "markdown.extension.math.enabled": false,
+    "markdown.preview.typographer": true
+}
